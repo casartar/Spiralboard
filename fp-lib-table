@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "Lithium_Battery_Charger_Module")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Battery_Charger_Module.pretty")(options "")(descr ""))
+)
