@@ -229,7 +229,7 @@
     (property "Value" "MountingHole_Pad" (at 46.99 171.45 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "MountingHole:MountingHole_4mm_Pad_TopBottom" (at 44.45 171.45 0)
+    (property "Footprint" "MountingHole:MountingHole_5.3mm_M5_Pad_TopBottom" (at 44.45 171.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 44.45 171.45 0)
