@@ -8,6 +8,7 @@
     (title "Spiralboard")
     (date "2023-07-01")
     (rev "v1.0")
+    (company "@casartar")
   )
 
   (lib_symbols
