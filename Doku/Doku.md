@@ -1,6 +1,21 @@
 # Spiralboard - Lötanleitung
 
-Einleitungsgeschwurbel mit schönem Bild
+!!! HIER SCHÖNES BILD EINFÜGEN !!!
+
+Das Spiralboard ist eine Demoplatine, anhand der wir die Fähigkeit unserer Pick and Place Maschine demonstrieren wollen. Aber darüber hinaus ist sie auch sehr schön anzusehen und macht sehr viel Spaß zusammen zu bauen (Das Spiralboard nicht die Maschine).
+
+Folgende Schritte sind notwendig ein Spiralboard zu fertigen:
+- Auftragen der Lötpaste
+- Automatische Bestückung
+- Backen der Platine
+- Handbestückung der Unterseite
+- Steuern der LEDs
+
+Je nach Kenntnisstand kannst du alle Schritte, außer der automatischen Bestückung, mithilfe dieser Anleitung, selbstständig durchführen. Wobei wir jederzeit mit Rat und Tat zur Seite stehen.
+
+Das Herz der Platine ist ein ESP8266-Modul mit der Open Source Software WLED. Mithilfe von WLED kann das Spiralboard auf jede erdenkliche Weise zum leuchten und blinken gebracht werden. 
+
+Von dir! - mit deinem Smartphone.
 
 ## Auftragen der Lötpaste
 
