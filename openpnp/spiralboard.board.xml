@@ -1,0 +1,275 @@
+<openpnp-board version="1.1" name="spiralboard.board.xml">
+   <dimensions units="Millimeters" x="0.0" y="0.0" z="0.0" rotation="0.0"/>
+   <fiducials/>
+   <placements>
+      <placement version="1.4" id="C1" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="24.0925" y="27.8092" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C2" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="20.0285" y="31.6192" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C3" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="33.4905" y="22.9832" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C4" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="29.1725" y="42.7952" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C5" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="17.2345" y="23.9992" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C6" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="41.3645" y="29.8412" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C7" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="19.2665" y="43.5572" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C8" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="25.3625" y="15.1092" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C9" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="41.3645" y="42.5412" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C10" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="8.8525" y="33.6512" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C11" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="40.6025" y="17.1412" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C12" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="28.4105" y="52.1932" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C13" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="12.9165" y="16.6332" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C14" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="50.0005" y="32.6352" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C15" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="10.8845" y="46.6052" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C16" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="30.1885" y="8.2512" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C17" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="41.6185" y="50.6692" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C18" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="3.7725" y="28.3172" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C19" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="49.4925" y="17.9032" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C20" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="21.5525" y="57.7812" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C21" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="14.6945" y="7.4892" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C22" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="53.8105" y="40.5092" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C23" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="1.2325" y="43.5572" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C24" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="39.3325" y="5.4572" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C25" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="38.8245" y="62.3532" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C26" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="-0.7995" y="17.3952" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C27" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="59.9065" y="23.2372" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C28" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="9.3605" y="60.8292" z="0.0" rotation="180.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C29" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="20.5365" y="-2.9248" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C30" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="56.8585" y="53.4632" z="0.0" rotation="90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C31" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="-7.1495" y="34.7942" z="0.0" rotation="-90.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="C32" side="Top" part-id="C_0805_2012Metric-100nF" type="Placement" enabled="true">
+         <location units="Millimeters" x="52.7945" y="4.4412" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D1" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="27.8115" y="31.8452" z="0.0" rotation="45.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D2" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="23.3873" y="35.8981" z="0.0" rotation="47.508"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D3" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="28.5534" y="23.3924" z="0.0" rotation="-174.984"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D4" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="34.1345" y="40.0926" z="0.0" rotation="-37.476"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D5" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="15.995" y="29.7548" z="0.0" rotation="100.032"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D6" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="39.1318" y="24.6445" z="0.0" rotation="-122.46"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D7" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="23.9957" y="46.0382" z="0.0" rotation="15.048"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D8" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="20.4953" y="17.7572" z="0.0" rotation="152.556"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D9" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="43.7521" y="37.6673" z="0.0" rotation="-69.936"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D10" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="11.173" y="38.7126" z="0.0" rotation="67.572"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D11" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="35.8542" y="14.6605" z="0.0" rotation="-154.92"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D12" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="33.7663" y="50.8331" z="0.0" rotation="-17.412"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D13" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="9.829" y="21.4227" z="0.0" rotation="120.096"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D14" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="48.9405" y="27.2013" z="0.0" rotation="-102.397"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D15" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="14.8988" y="50.2099" z="0.0" rotation="35.112"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D16" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="24.8267" y="8.7998" z="0.0" rotation="172.62"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D17" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="46.162" y="47.3132" z="0.0" rotation="-49.872"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D18" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="3.0939" y="32.8655" z="0.0" rotation="87.636"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D19" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="45.8568" y="13.8906" z="0.0" rotation="-134.856"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D20" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="26.6013" y="57.9706" z="0.0" rotation="2.652"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D21" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="10.6213" y="11.2419" z="0.0" rotation="140.16"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D22" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="55.0611" y="35.5142" z="0.0" rotation="-82.332"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D23" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="4.709" y="47.9161" z="0.0" rotation="55.176"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D24" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="34.1299" y="3.7725" z="0.0" rotation="-167.316"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D25" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="42.4229" y="57.3503" z="0.0" rotation="-29.808"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D26" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="-0.7683" y="22.724" z="0.0" rotation="107.7"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D27" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="55.586" y="19.0165" z="0.0" rotation="-114.792"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D28" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="15.7719" y="60.6037" z="0.0" rotation="22.716"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D29" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="17.0696" y="1.9686" z="0.0" rotation="160.224"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D30" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="56.4109" y="46.8809" z="0.0" rotation="-62.268"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D31" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="-3.9675" y="40.2176" z="0.0" rotation="75.24"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="D32" side="Top" part-id="LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm-WS2812B" type="Placement" enabled="true">
+         <location units="Millimeters" x="45.8829" y="3.7485" z="0.0" rotation="-147.252"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="FID1" side="Top" part-id="Fiducial_1mm_Mask2mm-Fiducial" type="Fiducial" enabled="true">
+         <location units="Millimeters" x="55.0805" y="9.3942" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="FID2" side="Top" part-id="Fiducial_1mm_Mask2mm-Fiducial" type="Fiducial" enabled="true">
+         <location units="Millimeters" x="68.1615" y="54.6062" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+      <placement version="1.4" id="FID3" side="Top" part-id="Fiducial_1mm_Mask2mm-Fiducial" type="Fiducial" enabled="true">
+         <location units="Millimeters" x="0.3435" y="4.4412" z="0.0" rotation="0.0"/>
+         <error-handling>Alert</error-handling>
+      </placement>
+   </placements>
+   <solder-paste-pads/>
+</openpnp-board>
