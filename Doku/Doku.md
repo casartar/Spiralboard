@@ -2,11 +2,11 @@
 
 !!! HIER SCHÖNES BILD EINFÜGEN !!!
 
-Das Spiralboard ist eine Demoplatine, anhand der wir die Fähigkeit unserer Pick and Place Maschine demonstrieren wollen. Darüber hinaus ist sie auch sehr schön anzusehen und macht sehr viel Spaß beim zusammenbauen (Das Spiralboard nicht die Maschine).
+Das Spiralboard ist eine Demoplatine, anhand der wir die Fähigkeit unserer Pick and Place Maschine demonstrieren wollen. Darüber hinaus ist sie auch sehr schön anzusehen und macht sehr viel Spaß beim zusammenbauen (Das Spiralboard, nicht die Maschine).
 
 Folgende Schritte sind notwendig um ein Spiralboard zu fertigen:
-- Auftragen der Lötpaste
-- Automatische Bestückung
+- Auftragen der Lötpaste Oberseite
+- Automatische Bestückung Oberseite
 - Backen der Platine
 - Handbestücken der Unterseite
 - Steuern der LEDs
@@ -15,7 +15,7 @@ Je nach Kenntnisstand kannst du alle Schritte, außer der automatischen Bestück
 
 **Wichtig:** Bitte lies jeden Schritt erst zuende und schaue dir das Bild dazu an, bevor du anfängst ihn abzuarbeiten.
 
-Das Herz der Platine ist ein **ESP8266-Modul** mit der Open Source Software **WLED**. Mithilfe von WLED kann das Spiralboard auf jede erdenkliche Art und Weise zum leuchten und blinken gebracht werden.
+Das Herz der Platine ist ein **ESP8266-Modul** mit der Open Source Software **WLED**. Mithilfe von WLED kann das Spiralboard auf jede erdenkliche Art und Weise zum Leuchten und Blinken gebracht werden.
 
 Und das von dir! - Mit deinem Smartphone!
 
@@ -27,13 +27,13 @@ Zuerst muss die Platine in den Schablonenhalter eingelegt werden, so dass die Pl
 ![alt text](Bilder/IMG_8405.JPG)
 
 ### Auflegen der Lötschablone
-Nun muss die Lötschablone (oder auch Stencil) so auf die Platine aufgelegt werden, dass die Löcher in der Schablone und die silbernen Pads der Platine perfekt übereinander liegen.
+Nun muss die Lötschablone (auch Stencil genannt) so auf die Platine aufgelegt werden, dass die Löcher in der Schablone und die silbernen Pads der Platine perfekt übereinander liegen.
 
 ![alt text](Bilder/IMG_8409.JPG)
 
-Wenn alles perfekt passt, muss die Lötschablone mit den schwarzen Magneten am Scharnier des Schablonenhalters befestigt werden. Dabei muss darauf geachtet werden, dass die Schablone nicht wieder verrutscht. Das Scharnier beginnt erst ab ca. 2 cm von der unteren rechten Ecke. Die Magneten müssen also oberhalb platziert werden.
+Wenn alles perfekt passt, muss die Lötschablone mit den schwarzen Magneten am Scharnier des Schablonenhalters befestigt werden. Dabei muss darauf geachtet werden, dass die Schablone nicht wieder verrutscht. Das Scharnier beginnt erst ab ca. 2 cm von der unteren rechten Ecke. Die Magnete müssen also oberhalb platziert werden.
 
-**Achtung**: Die Magneten sind ziemlich stark.
+**Achtung**: Die Magnete sind ziemlich stark.
 
 ![alt text](Bilder/IMG_8408.JPG)
 
@@ -43,7 +43,7 @@ Am unteren Rand der Lötschablone muss eine dünne Wurst aus Lötpaste aufgetrag
 
 ![alt text](Bilder/IMG_8410.JPG)
 
-Mit zwei Fingern wird die Lötschablone am unteren Rand fixiert und mit dem Rakel wird die Lötpaste über die Schablone gezogen. Dabei muss mit dem Daumen druck auf den Rakel ausgeübt werden, damit die Lötpaste sich gut in die Öffnungen setzen kann.
+Mit zwei Fingern wird die Lötschablone am unteren Rand fixiert und mit dem Rakel wird die Lötpaste über die Schablone gezogen. Dabei muss mit dem Daumen Druck auf den Rakel ausgeübt werden, damit die Lötpaste sich gut in die Öffnungen setzen kann.
 
 ![alt text](Bilder/IMG_8411.JPG)
 
@@ -51,7 +51,7 @@ Mit zwei Fingern wird die Lötschablone am unteren Rand fixiert und mit dem Rake
 
 ![alt text](Bilder/IMG_8413.JPG)
 
-Zum Entfernen der Schablone wird mit dem rechten Daumen das Scharnier des Schablonenhalters blockiert und mit dem linken Zeigefinder die linke untere Ecke der Schablone angehoben. 
+Zum Entfernen der Schablone wird mit dem rechten Daumen das Scharnier des Schablonenhalters blockiert und mit dem linken Zeigefinger die linke untere Ecke der Schablone angehoben. 
 
 Hier muss darauf geachtet werden, dass die Schablone nicht zurückfällt, sonst kann die Lötpaste verschmiert werden.
 
@@ -59,13 +59,13 @@ Hier muss darauf geachtet werden, dass die Schablone nicht zurückfällt, sonst 
 
 ![alt text](Bilder/IMG_8415.JPG)
 
-Nachdem sich die Schablone komplett von der Platine gelöst hat, kann die Blockierung des Scharniers gelöst werden und das Scharnier mit der Schablone augeklappt werden.
+Nachdem sich die Schablone komplett von der Platine gelöst hat, kann die Blockierung des Scharniers gelöst werden und das Scharnier mit der Schablone aufgeklappt werden.
 
 ![alt text](Bilder/IMG_8416.JPG)
 
 ![alt text](Bilder/IMG_8417.JPG)
 
-Nun folgt die Kontrolle, ob die Lötpaste bündig auf den Pads aufgetragen ist. Ist dies nicht der Fall, muss die Platine gereinigt und der Vorgang wiederholt werden.
+Nun folgt die Kontrolle, ob die Lötpaste bündig auf den Pads aufgetragen ist. Ist dies nicht der Fall, muss die Platine zuerst komplett gereinigt und dann der ganze Vorgang wiederholt werden.
 
 ![alt text](Bilder/IMG_8418.JPG)
 
@@ -95,7 +95,7 @@ Auf dem Display kann der Temperaturverlauf verfolgt werden.
 
 ![alt text](Bilder/IMG_8424.JPG)
 
-Nach beenden des Heizvorgangs verbleibt die Platine noch für 2-3 Minuten bei geschlossener Tür im Ofen, egal was das Display sagt.
+Nach Beenden des Heizvorgangs verbleibt die Platine noch für 2-3 Minuten bei geschlossener Tür im Ofen, egal was das Display sagt.
 
 Anschließend wird die Tür für ca. 1 Minute einen Spalt breit geöffnet.
 
@@ -103,7 +103,7 @@ Anschließend wird die Tür für ca. 1 Minute einen Spalt breit geöffnet.
 
 Daraufhin wird der Ofen komplett geöffnet und die heiße Platine mit einer Pinzette entnommen.
 
-Zum schluss wird geprüft, ob alle Bauteile ordungsgemäß verlötet wurden.
+Zum Schluss wird geprüft, ob alle Bauteile ordungsgemäß verlötet wurden.
 
 ![alt text](Bilder/IMG_8427.JPG)
 
@@ -121,11 +121,11 @@ Damit während des Lötens die Platine nicht verrutscht, wird diese mit sogenann
 ### Widerstände - R1, R4, R5 und R6 (10 kΩ)
 
 Die Widerstände sind in einem weißen Papiergurt verpackt, der mit der Aufschrift "10k" versehen ist.
-Um die Widerstände aus dem Gurt zu lösen, muss die Plasikfolie entfernt werden, das geht am besten, wenn man mit der Pinzette zwischen Folie und Papier sticht und die Folie vosrsichtig abzieht, so dass die Widerstände nicht wegspringen.
+Um die Widerstände aus dem Gurt zu lösen, muss die Plasikfolie entfernt werden. Das geht am Besten, wenn man mit der Pinzette zwischen Folie und Papier sticht und die Folie vorsichtig abzieht, so dass die Widerstände nicht wegspringen.
 
 ![alt text](Bilder/IMG_8431.JPG)
 
-Im ersten Schritt, wird das rechte Pad des mit "R1" beschrifteten Footprints verzinnt.
+Im ersten Schritt wird das rechte Pad des mit "R1" beschrifteten Footprints verzinnt.
 
 ![alt text](Bilder/IMG_8446.JPG)
 
@@ -155,7 +155,7 @@ Die 100 nF-Kondensatoren sind ebenso wie die Widerstände in einem weißen Papie
 
 ![alt text](Bilder/IMG_8444.JPG)
 
-Sie werden auch in gleicher Manier wie die Widerstände verlötet.
+Sie werden auch in gleicher Manier wie die Widerstände verlötet. Die Richtung (welche Seite wohin) ist egal, diese Kondensatoren sind nicht gepolt.
 
 ![alt text](Bilder/IMG_8455.JPG)
 
@@ -164,7 +164,7 @@ Sie werden auch in gleicher Manier wie die Widerstände verlötet.
 ### Kondensatoren - C35, C36 und C37 (10 µF)
 
 Die 10 µF-Kondensatoren sind in einem transparenten Platikgurt verpackt, der mit der Aufschrift "10u" versehen ist.
-Auch hier: Gleiches Vorgehen wie bei den anderen Kondensatoren und Widerständen.
+Auch hier: Gleiches Vorgehen wie bei den anderen Kondensatoren und Widerständen. **FIXME POLARITÄT**
 
 ![alt text](Bilder/IMG_8432.JPG)
 
@@ -180,7 +180,7 @@ Der Linearregler ist in einem schwarzen Plastikgurt verpackt.
 
 ![alt text](Bilder/IMG_8433.JPG)
 
-Auch hier wird zu erst ein Pad verzinnt und dann das Bauteil in das flüssige Lötzinn geschoben. 
+Auch hier wird zuerst ein Pad verzinnt und dann das Bauteil in das flüssige Lötzinn geschoben. 
 
 ![alt text](Bilder/IMG_8460.JPG)
 
@@ -210,13 +210,13 @@ Das ESP8266-Modul kann von Hand und ohne Pinzette platziert werden.
 
 ![alt text](Bilder/IMG_8435.JPG)
 
-Wie bisher auch wird zu erst ein Pad verzinnt und das Modul in das flüssige Lötzinn geschoben. Hier ist es ganz wichtig darauf zu achten, dass das Modul Ordentlich sitzt und jeder Pin über einem Pad platziert ist. 
+Wie bisher auch wird zu erst ein Pad verzinnt und das Modul in das flüssige Lötzinn geschoben. Hier ist es ganz wichtig darauf zu achten, dass das Modul ordentlich sitzt und jeder Pin über einem Pad platziert ist. 
 
 ![alt text](Bilder/IMG_8467.JPG)
 
 ![alt text](Bilder/IMG_8468.JPG)
 
-Es genügt nur die Pins an den beiden langen Seiten zu verlöten. Die Pinreihe an der kurzen Seite wird nicht benötigt.
+Es genügt, nur die Pins an den beiden langen Seiten zu verlöten. Die Pinreihe an der kurzen Seite wird nicht benötigt.
 
 ![alt text](Bilder/IMG_8469.JPG)
 
@@ -228,7 +228,7 @@ Für das Laderegler-Modul ist ebenfalls keine Pinzette notwendig.
 
 ![alt text](Bilder/IMG_8436.JPG)
 
-Routiniert wird wider ein Pad verzinnt und das Modul ausgerichtet. Zum verlöten, muss der Lötkolben durch die Bohrung gesteckt werden um das Lötzinn auf dem vorverzinnten Pad zu verflüssigen.
+Routiniert wird wieder ein Pad verzinnt und das Modul ausgerichtet. Zum Verlöten muss der Lötkolben durch die Bohrung gesteckt werden um das Lötzinn auf dem vorverzinnten Pad zu verflüssigen.
 
 ![alt text](Bilder/IMG_8471.JPG)
 
@@ -272,7 +272,7 @@ Schematisch:
 
 Damit der Taster beim Verlöten nicht herausfällt, können die Beinchen verbogen werden.
 
-Beim verlöten des ersten Beinchens sollte der Taster trotzdem mit einem Finger fixiert werden, damit er anschlißend ordentlich auf der Platine aufliegt.
+Beim Verlöten des ersten Beinchens sollte der Taster trotzdem mit einem Finger fixiert werden, damit er anschließend ordentlich auf der Platine aufliegt.
 
 ![alt text](Bilder/IMG_8482.JPG)
 
@@ -292,11 +292,11 @@ Der Akku wird mit Klettverschluss an der Platine fixiert. Dazu muss die Platine 
 
 ![alt text](Bilder/IMG_8440.JPG)
 
-Zu erst wird der **flauschige** Teil des Klettverschlusses auf den Akku geklebt.
+Zuerst wird der **flauschige** Teil des Klettverschlusses auf den Akku geklebt.
 
 ![alt text](Bilder/IMG_8487.JPG)
 
-Anschlißend wird der andere Teil mit dem flauschigen Teil verbunden und die Schutzfolie vom Klebeband entfernt.
+Anschließend wird der andere Teil mit dem flauschigen Teil verbunden und die Schutzfolie vom Klebeband entfernt.
 
 ![alt text](Bilder/IMG_8488.JPG)
 
@@ -304,7 +304,7 @@ Jetzt wird der Akku mittig in das weiße Rechteck geklebt.
 
 ![alt text](Bilder/IMG_8489.JPG)
 
-Zu guter Letzt wird Stecker des Akkus in die Buchse J2 gesteckt.
+Zu guter Letzt wird der Stecker des Akkus in die Buchse J2 gesteckt.
 
 ![alt text](Bilder/IMG_8490.JPG)
 
@@ -327,3 +327,5 @@ Weitere Infos zu WLED gibt es hier: https://kno.wled.ge/
 Du kannst das Board über WLED frei konfigurieren, updaten usw...
 
 Wir wünschen dir viel Spaß mit deinem eigenen Spiralboard und hoffen es hat dir Spaß gemacht!
+
+
