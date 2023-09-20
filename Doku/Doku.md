@@ -1,6 +1,7 @@
 # Spiralboard - Lötanleitung
 
-!!! HIER SCHÖNES BILD EINFÜGEN !!!
+![alt text](Bilder/20230919_221744-removebg-preview.png)
+
 
 Das Spiralboard ist eine Demoplatine, anhand der wir die Fähigkeit unserer Pick and Place Maschine demonstrieren wollen. Darüber hinaus ist sie auch sehr schön anzusehen und macht sehr viel Spaß beim zusammenbauen (Das Spiralboard, nicht die Maschine).
 
