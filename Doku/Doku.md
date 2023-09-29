@@ -164,8 +164,8 @@ Sie werden auch in gleicher Manier wie die Widerstände verlötet. Die Richtung 
 
 ### Kondensatoren - C35, C36 und C37 (10 µF)
 
-Die 10 µF-Kondensatoren sind in einem transparenten Platikgurt verpackt, der mit der Aufschrift "10u" versehen ist.
-Auch hier: Gleiches Vorgehen wie bei den anderen Kondensatoren und Widerständen. **FIXME POLARITÄT**
+Die 10 µF-Kondensatoren sind in einem transparenten Plastikgurt verpackt, der mit der Aufschrift "10u" versehen ist.
+Auch hier: Gleiches Vorgehen wie bei den anderen Kondensatoren und Widerständen.
 
 ![alt text](Bilder/IMG_8432.JPG)
 
@@ -175,7 +175,7 @@ Auch hier: Gleiches Vorgehen wie bei den anderen Kondensatoren und Widerständen
 
 ![alt text](Bilder/IMG_8459.JPG)
 
-### Linearregler - U3 (10 µF)
+### Linearregler - U3
 
 Der Linearregler ist in einem schwarzen Plastikgurt verpackt.
 
@@ -317,15 +317,16 @@ Wenn der Schalter auf **On** gestellt ist, sollte die Platine nun irgendwie leuc
 
 Auf dem Controller ist die Open Source Firmware "WLED", mit ein paar von uns konfigurierten Presets, installiert.
 
-Auf dem Smartphone sollte ein WLAN-Access-Point zu sehen sein, der sich aus **Spiralboard** und der Nummer auf dem ESP8266-Modul zusammensetzt.
+Auf dem Smartphone sollte ein WLAN-Access-Point zu sehen sein, der sich aus **Spiralboard-** und der Nummer auf dem ESP8266-Modul zusammensetzt. Das default Passwort ist **wled1234**.
 
 Über die Website die sich öffnet, wenn eine Verbindung zu diesem Access-Point aufgebaut wird, kann die Anzeige auf dem Spiralboard gesteuert werden.
 
-Die vorinstallierten Presets lassen sich durch das Betätigen des Tasters umschalten.
+Die vorinstallierten Presets lassen sich durch einfachen Klick des Tasters umschalten und durch langen Klick schaltest du das Board in einen automatischen Wechselzyklus bei dem es alle 10 Sekunden das Preset wechselt.
 
 Weitere Infos zu WLED gibt es hier: https://kno.wled.ge/
 
 Du kannst das Board über WLED frei konfigurieren, updaten usw...
+Wir empfehlen dir, das Board Zuhause mit deinem Heimnetzwerk zu verbinden, da es sich dann viel leichter konfigurieren lässt.
 
 Wir wünschen dir viel Spaß mit deinem eigenen Spiralboard und hoffen es hat dir Spaß gemacht!
 
