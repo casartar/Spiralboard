@@ -119,7 +119,7 @@ Damit während des Lötens die Platine nicht verrutscht, wird diese mit sogenann
 
 ![alt text](Bilder/IMG_8441.JPG)
 
-### Widerstände - R1, R4, R5 und R6 (10 kΩ)
+### Widerstände - R1, R4, R5, R6 und R7 (10 kΩ)
 
 Die Widerstände sind in einem weißen Papiergurt verpackt, der mit der Aufschrift "10k" versehen ist.
 Um die Widerstände aus dem Gurt zu lösen, muss die Plasikfolie entfernt werden. Das geht am Besten, wenn man mit der Pinzette zwischen Folie und Papier sticht und die Folie vorsichtig abzieht, so dass die Widerstände nicht wegspringen.
@@ -142,7 +142,8 @@ Nun wird die andere Seite des Widerstands mit dem zweiten Pad verlötet.
 
 ![alt text](Bilder/IMG_8450.JPG)
 
-Der gleiche Vorgang muss mit R4, R5 und R6 wiederholt werden.
+Der gleiche Vorgang muss mit R4, R5, R6 und R7 wiederholt werden.
+**ACHTUNG: R7 FEHLT AUF DEN BILDERN, MUSS ABER AUCH BESTÜCKT WERDEN**
 
 ![alt text](Bilder/IMG_8451.JPG)
 
