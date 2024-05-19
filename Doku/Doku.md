@@ -143,13 +143,15 @@ Nun wird die andere Seite des Widerstands mit dem zweiten Pad verlötet.
 ![alt text](Bilder/IMG_8450.JPG)
 
 Der gleiche Vorgang muss mit R4, R5, R6 und R7 wiederholt werden.
-**ACHTUNG: R7 FEHLT AUF DEN BILDERN, MUSS ABER AUCH BESTÜCKT WERDEN**
 
 ![alt text](Bilder/IMG_8451.JPG)
 
 ![alt text](Bilder/IMG_8452.JPG)
 
 ![alt text](Bilder/IMG_8453.JPG)
+
+![alt text](Bilder/IMG_9915.JPG)
+
 
 ### Kondensatoren - C33 und C34 (100 nF)
 
