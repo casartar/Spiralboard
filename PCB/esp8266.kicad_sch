@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Spiralboard")
-		(date "2023-07-01")
-		(rev "v1.0")
+		(date "2024-06-23")
+		(rev "v1.1")
 		(company "@casartar")
 	)
 	(lib_symbols
@@ -1590,6 +1590,292 @@
 				)
 			)
 		)
+		(symbol "Switch:SW_Push_Dual"
+			(pin_names
+				(offset 1.016) hide)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "SW"
+				(at 0 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "SW_Push_Dual"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 7.62 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Push button switch, generic, symbol, four pins"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "switch normally-open pushbutton push-button"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "SW_Push_Dual_0_1"
+				(circle
+					(center -2.032 -2.54)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center -2.032 2.54)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -0.508) (xy 0 -1.016)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0.508) (xy 0 0)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 1.016) (xy 0 1.524)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.032) (xy 0 2.54)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 3.048) (xy 0 3.556)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 3.81) (xy 0 5.588)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -1.27) (xy -2.54 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 3.81) (xy -2.54 3.81)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 -2.54)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 2.032 2.54)
+					(radius 0.508)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -5.08 2.54 0)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 2.54 180)
+					(length 2.54)
+					(name "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -5.08 -2.54 0)
+					(length 2.54)
+					(name "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 2.54)
+					(name "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "SW_Push_Dual_1_1"
+				(rectangle
+					(start -3.175 5.715)
+					(end 3.175 -4.445)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+			)
+		)
 		(symbol "WL9005:WL9005"
 			(exclude_from_sim no)
 			(in_bom yes)
@@ -2141,6 +2427,12 @@
 		)
 	)
 	(junction
+		(at 191.77 110.49)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0154263f-af3b-4a88-9f77-dd9523fbe897")
+	)
+	(junction
 		(at 90.17 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2151,6 +2443,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "36188881-8b7f-4546-8ede-10c7c1b29bbf")
+	)
+	(junction
+		(at 167.64 86.36)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4980b5c3-4a65-416c-a098-0e32dc2c7e7f")
 	)
 	(junction
 		(at 100.33 78.74)
@@ -2169,6 +2467,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9058e059-968e-4cd2-8fc1-0d1f2fc346b3")
+	)
+	(junction
+		(at 179.07 105.41)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "96b18055-5bd9-4fd1-9e52-02bb5465338c")
 	)
 	(junction
 		(at 215.9 137.16)
@@ -2274,6 +2578,16 @@
 	)
 	(wire
 		(pts
+			(xy 179.07 105.41) (xy 167.64 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1180d334-5682-4e45-a018-da6414e12139")
+	)
+	(wire
+		(pts
 			(xy 215.9 137.16) (xy 215.9 138.43)
 		)
 		(stroke
@@ -2311,6 +2625,26 @@
 			(type default)
 		)
 		(uuid "219889e5-7e60-414a-962c-f9f4475ad688")
+	)
+	(wire
+		(pts
+			(xy 179.07 105.41) (xy 179.07 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23a885d1-d672-49f5-965f-62e824250b25")
+	)
+	(wire
+		(pts
+			(xy 180.34 105.41) (xy 179.07 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "24ccdffa-d347-43fb-bd8a-d071307a80bb")
 	)
 	(wire
 		(pts
@@ -2464,6 +2798,16 @@
 	)
 	(wire
 		(pts
+			(xy 191.77 110.49) (xy 191.77 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "550fc565-9e86-4628-b2b2-6aa915ffe0d5")
+	)
+	(wire
+		(pts
 			(xy 90.17 74.93) (xy 90.17 88.9)
 		)
 		(stroke
@@ -2481,6 +2825,16 @@
 			(type default)
 		)
 		(uuid "67a36dff-32a3-46d8-b0db-ef5e27947d58")
+	)
+	(wire
+		(pts
+			(xy 191.77 105.41) (xy 191.77 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "680d8661-93da-405c-a199-31bcbf209c61")
 	)
 	(wire
 		(pts
@@ -2511,6 +2865,26 @@
 			(type default)
 		)
 		(uuid "84d60520-788d-495f-96b8-623d991d4b1b")
+	)
+	(wire
+		(pts
+			(xy 190.5 105.41) (xy 191.77 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "93d59fad-8998-4a0f-8469-99301052ff7e")
+	)
+	(wire
+		(pts
+			(xy 167.64 105.41) (xy 167.64 86.36)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "973da40c-edc7-456a-9156-03c501f1f1e1")
 	)
 	(wire
 		(pts
@@ -2551,6 +2925,16 @@
 			(type default)
 		)
 		(uuid "aa0e3180-cc32-406f-8d16-284877a51e41")
+	)
+	(wire
+		(pts
+			(xy 191.77 110.49) (xy 190.5 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af4064b5-ceb9-45f9-b3ff-98ac157ced3c")
 	)
 	(wire
 		(pts
@@ -2654,6 +3038,16 @@
 	)
 	(wire
 		(pts
+			(xy 180.34 110.49) (xy 179.07 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4c61574-0ce5-4ca7-97df-6b67da4590a0")
+	)
+	(wire
+		(pts
 			(xy 43.18 165.1) (xy 43.18 148.59)
 		)
 		(stroke
@@ -2751,6 +3145,16 @@
 			(type default)
 		)
 		(uuid "f8974343-3e35-483a-a7f1-8aea532a9fdb")
+	)
+	(text "User Button"
+		(exclude_from_sim no)
+		(at 199.136 108.458 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "4678a2b8-559a-4d1f-bb9f-90dfdbefbe19")
 	)
 	(label "Bat+"
 		(at 99.06 146.05 0)
@@ -3202,7 +3606,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 88.392 95.25 90)
 			(effects
 				(font
@@ -3336,7 +3740,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Package_TO_SOT_SMD:SOT-89-3_Handsoldering"
+		(property "Footprint" "Package_TO_SOT_SMD:SOT-23"
 			(at 195.58 139.7 0)
 			(effects
 				(font
@@ -3528,6 +3932,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 191.77 113.03 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3fbcfe8c-5280-450d-b9d2-519a88dd923c")
+		(property "Reference" "#PWR0155"
+			(at 191.77 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 191.77 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 191.77 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 191.77 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 191.77 113.03 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "4a62d27f-8998-4266-bf89-fc46a1aec86c")
+		)
+		(instances
+			(project "spiralboard"
+				(path "/2dccc2ee-a00d-45c7-b590-3270e46ac760/8af270ed-474e-459f-a7a9-2dc2a2b63872"
+					(reference "#PWR0155")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R")
 		(at 100.33 71.12 0)
 		(unit 1)
@@ -3555,7 +4025,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 98.552 71.12 90)
 			(effects
 				(font
@@ -3691,7 +4161,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 150.622 109.22 90)
 			(effects
 				(font
@@ -3827,7 +4297,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 88.392 71.12 90)
 			(effects
 				(font
@@ -3937,8 +4407,7 @@
 	)
 	(symbol
 		(lib_id "Connector:Conn_01x02_Pin")
-		(at 113.03 146.05 0)
-		(mirror y)
+		(at 113.03 148.59 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3946,7 +4415,7 @@
 		(dnp no)
 		(uuid "74607574-f0bf-4e35-b0de-be3031ccd93e")
 		(property "Reference" "J2"
-			(at 114.3 146.05 0)
+			(at 114.554 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3955,7 +4424,7 @@
 			)
 		)
 		(property "Value" "Conn_01x02_Pin"
-			(at 114.3 148.59 0)
+			(at 114.554 148.082 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3964,7 +4433,7 @@
 			)
 		)
 		(property "Footprint" "Connector_JST:JST_PH_S2B-PH-K_1x02_P2.00mm_Horizontal"
-			(at 113.03 146.05 0)
+			(at 113.03 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3973,7 +4442,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 113.03 146.05 0)
+			(at 113.03 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3982,7 +4451,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 113.03 146.05 0)
+			(at 113.03 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4099,7 +4568,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 174.9552 146.05 0)
 			(effects
 				(font
@@ -4367,7 +4836,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 127.9652 45.72 0)
 			(effects
 				(font
@@ -4437,7 +4906,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "RF_Module:ESP-12E"
+		(property "Footprint" "ESP12-E_HandSolder:ESP-12E_HandSolder"
 			(at 127 93.98 0)
 			(effects
 				(font
@@ -4897,7 +5366,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 150.622 67.31 90)
 			(effects
 				(font
@@ -4967,7 +5436,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 163.322 67.31 90)
 			(effects
 				(font
@@ -5235,7 +5704,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 101.2952 99.06 0)
 			(effects
 				(font
@@ -5451,7 +5920,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 216.8652 146.05 0)
 			(effects
 				(font
@@ -5626,6 +6095,80 @@
 		)
 	)
 	(symbol
+		(lib_id "Switch:SW_Push_Dual")
+		(at 185.42 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c93ceda3-70f7-4d04-96af-c16e8d689a59")
+		(property "Reference" "SW3"
+			(at 185.42 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "SW_Push_Dual"
+			(at 185.42 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "KH-6X6X6H-STM:KH-6X6X6H-STM"
+			(at 185.42 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 185.42 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Push button switch, generic, symbol, four pins"
+			(at 185.42 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "81954b6c-70e0-4d8b-ad17-c8e63f5b40df")
+		)
+		(pin "4"
+			(uuid "ae871563-2404-452f-8de1-6b8b1d10bf03")
+		)
+		(pin "3"
+			(uuid "87bf9ad0-db9a-4c00-9510-39383174091a")
+		)
+		(pin "2"
+			(uuid "2b4bb30e-ff20-4411-9d98-4689737fa4dd")
+		)
+		(instances
+			(project "spiralboard"
+				(path "/2dccc2ee-a00d-45c7-b590-3270e46ac760/8af270ed-474e-459f-a7a9-2dc2a2b63872"
+					(reference "SW3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C")
 		(at 114.3 41.91 0)
 		(unit 1)
@@ -5653,7 +6196,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric_Pad1.18x1.45mm_HandSolder"
+		(property "Footprint" "Capacitor_SMD:C_1206_3216Metric_Pad1.33x1.80mm_HandSolder"
 			(at 115.2652 45.72 0)
 			(effects
 				(font
@@ -5723,7 +6266,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+		(property "Footprint" "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder"
 			(at 79.502 71.12 90)
 			(effects
 				(font

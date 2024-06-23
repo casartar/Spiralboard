@@ -2,4 +2,7 @@
   (version 7)
   (lib (name "Lithium_Battery_Charger_Module")(type "KiCad")(uri "${KIPRJMOD}/Lithium_Battery_Charger_Module.pretty")(options "")(descr ""))
   (lib (name "MSS22D18G2")(type "KiCad")(uri "${KIPRJMOD}/MSS22D18G2.pretty")(options "")(descr ""))
+  (lib (name "TS-1002S-04526C")(type "KiCad")(uri "${KIPRJMOD}/TS-1002S-04526C.pretty")(options "")(descr ""))
+  (lib (name "KH-6X6X6H-STM")(type "KiCad")(uri "${KIPRJMOD}/KH-6X6X6H-STM.pretty")(options "")(descr ""))
+  (lib (name "ESP12-E_HandSolder")(type "KiCad")(uri "${KIPRJMOD}/ESP12-E_HandSolder.pretty")(options "")(descr ""))
 )

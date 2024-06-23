@@ -6,8 +6,8 @@
 	(paper "A4")
 	(title_block
 		(title "Spiralboard")
-		(date "2023-07-01")
-		(rev "v1.0")
+		(date "2024-06-23")
+		(rev "v1.1")
 		(company "@casartar")
 	)
 	(lib_symbols
